@@ -3,6 +3,9 @@
 ![Python Version](https://img.shields.io/badge/3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue)
 [![](https://img.shields.io/discord/1153072414184452236?logo=discord&style=flat)](https://discord.gg/pAbnFJrkgZ)
 
+https://microsoft.github.io/autogen/docs/Examples/AutoGen-AgentChat/
+https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/
+
 This project is a spinoff from [FLAML](https://github.com/microsoft/FLAML).
 
 # AutoGen
